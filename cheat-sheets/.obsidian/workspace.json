@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "99b419c68fa53684",
+    "type": "split",
+    "children": [
+      {
+        "id": "579cc73491ab8dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "955dc4c9f1d65867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apps/git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "377db508fa2103be",
+    "type": "split",
+    "children": [
+      {
+        "id": "1947bb91fa683160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578c0c6ad5aa388c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26ed3c30baec1f87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f910344ebc523cfe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217
+  },
+  "right": {
+    "id": "f0797898dcaefe2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1701e5d11cd0ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a7e3c3db5f6c13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "apps/git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f0f0c303479e733",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "apps/git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abf712c107f8ff1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9da76061b893dfd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "apps/git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "955dc4c9f1d65867",
+  "lastOpenFiles": [
+    "tools/Useful tools.md",
+    "apps/Untitled.md",
+    "Untitled.md",
+    "Just a test.md",
+    "2022-10-30.md"
+  ]
+}
