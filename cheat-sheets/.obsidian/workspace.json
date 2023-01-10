@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "537b44061fde99ab",
+        "id": "70b866e06097be86",
         "type": "tabs",
         "children": [
           {
-            "id": "67e4a4501324a751",
+            "id": "8df0982e00d2d8d0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,16 +129,28 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "578c0c6ad5aa388c",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "8df0982e00d2d8d0",
   "lastOpenFiles": [
-    "reminders/HBR-website/Usufull comands.md",
-    "2022-11-18.md",
     "apps/git.md",
-    "tools/Useful tools.md",
+    "linux/nginx.md",
+    "reminders/HBR-website/Usufull comands.md",
     "ssh/work.md",
-    "apps/Untitled.md",
+    "Excalidraw/Study/Drawing 2022-12-23 10.37.04.excalidraw.md",
     "Untitled.md",
-    "Just a test.md",
-    "2022-10-30.md"
+    "tools/Useful tools.md",
+    "2022-11-18.md",
+    "apps/Untitled.md",
+    "Just a test.md"
   ]
 }
