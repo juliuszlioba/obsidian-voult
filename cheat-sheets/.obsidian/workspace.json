@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2397970b7f90cf32",
+        "id": "d7f25b577eff77b4",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd82cb2cbb3dc6b",
+            "id": "17a0c981aa93aad0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/nginx/commands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/nginx/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/nginx/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linux/nginx/commands.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,13 +139,13 @@
       "templates:Insert template": true
     }
   },
-  "active": "bcd82cb2cbb3dc6b",
+  "active": "17a0c981aa93aad0",
   "lastOpenFiles": [
+    "reminders/HBR-website/Usufull comands.md",
+    "linux/nginx/commands.md",
     "linux/nginx/config - proxy.md",
     "linux/nginx/config - default.md",
-    "linux/nginx/commands.md",
     "apps/git.md",
-    "reminders/HBR-website/Usufull comands.md",
     "ssh/work.md",
     "2023-01-11.md",
     "Untitled.canvas",
