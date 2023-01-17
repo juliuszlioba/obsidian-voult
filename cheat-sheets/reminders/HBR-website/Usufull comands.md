@@ -9,14 +9,18 @@ Check Franz's made @Model on page
 
 ## Dinamic Links
 
-```html
+Produkt:
+```razor
 @Html.Raw(@StoreModels.ProductLink(XX, "Link Text", "_blank", ""))
+```
+
+Produktgroup:
+```razor
 @Html.Raw(@StoreModels.ProductGroupLink(XX, "Link Text", "_blank", "btn btn-hbr green light"))
 ```
 
 ## Redirect
 
-```html
+```razor
 Response.Redirect("~/milch");
-@{ Response.Redirect("~/milch");}
 ```
