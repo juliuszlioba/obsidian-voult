@@ -1,5 +1,6 @@
 ```nginx
 server {
+
     server_name domain.com www.domain.com;
 
     root /var/www/domain.com/html;
@@ -9,6 +10,7 @@ server {
         try_files $uri $uri/ =404;
     }
 
+	# Node App Proxy
     location /send-email {
         proxy_pass http://localhost:5069;
         proxy_http_version 1.1;
