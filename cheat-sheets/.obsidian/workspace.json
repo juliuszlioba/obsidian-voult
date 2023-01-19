@@ -11,8 +11,12 @@
             "id": "17a0c981aa93aad0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "reminders/HBR-website/Usufull comands.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "reminders/HBR-website/Usufull comands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "reminders/HBR-website/Usufull comands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "reminders/HBR-website/Usufull comands.md"
+              }
             }
           }
         ],
@@ -141,10 +149,10 @@
   },
   "active": "17a0c981aa93aad0",
   "lastOpenFiles": [
-    "reminders/HBR-website/Usufull comands.md",
     "linux/nginx/commands.md",
-    "linux/nginx/config - proxy.md",
     "linux/nginx/config - default.md",
+    "linux/nginx/config - proxy.md",
+    "reminders/HBR-website/Usufull comands.md",
     "apps/git.md",
     "ssh/work.md",
     "2023-01-11.md",
