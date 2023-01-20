@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "118bbfd8d6d2c620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/VPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/git.md",
+                "file": "linux/VPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/git.md",
+                "file": "linux/VPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/git.md"
+                "file": "linux/VPS.md"
               }
             }
           }
@@ -147,13 +160,13 @@
       "templates:Insert template": true
     }
   },
-  "active": "17a0c981aa93aad0",
+  "active": "118bbfd8d6d2c620",
   "lastOpenFiles": [
+    "apps/git.md",
     "reminders/HBR-website/Usufull comands.md",
     "linux/nginx/commands.md",
     "linux/nginx/config - default.md",
     "linux/nginx/config - proxy.md",
-    "apps/git.md",
     "ssh/work.md",
     "2023-01-11.md",
     "Untitled.canvas",
