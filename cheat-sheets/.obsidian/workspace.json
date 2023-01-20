@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md",
+                "file": "apps/git.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md",
+                "file": "apps/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md",
+                "file": "apps/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md"
+                "file": "apps/git.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "17a0c981aa93aad0",
   "lastOpenFiles": [
+    "reminders/HBR-website/Usufull comands.md",
     "linux/nginx/commands.md",
     "linux/nginx/config - default.md",
     "linux/nginx/config - proxy.md",
-    "reminders/HBR-website/Usufull comands.md",
     "apps/git.md",
     "ssh/work.md",
     "2023-01-11.md",
