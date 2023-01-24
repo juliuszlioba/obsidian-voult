@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/VPS.md",
-                "mode": "source",
+                "file": "linux/nginx/commands.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/VPS.md",
+                "file": "linux/nginx/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/VPS.md",
+                "file": "linux/nginx/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/VPS.md"
+                "file": "linux/nginx/commands.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "e4c99546c492246e",
   "lastOpenFiles": [
-    "apps/git.md",
+    "linux/nginx/config - default.md",
     "linux/VPS.md",
+    "apps/git.md",
     "reminders/HBR-website/Usufull comands.md",
     "linux/nginx/commands.md",
-    "linux/nginx/config - default.md",
     "linux/nginx/config - proxy.md",
     "ssh/work.md",
     "2023-01-11.md",
