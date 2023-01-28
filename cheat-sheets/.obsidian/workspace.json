@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f037ab3d2a0057",
+        "id": "b56f6b64dfe38461",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c99546c492246e",
+            "id": "57a141d4c9609afa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/nginx/commands.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ac939f962e347f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code snippets/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code snippets/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code snippets/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "code snippets/Untitled.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,9 +139,10 @@
       "templates:Insert template": true
     }
   },
-  "active": "9ac939f962e347f3",
+  "active": "57a141d4c9609afa",
   "lastOpenFiles": [
     "linux/nginx/commands.md",
+    "code snippets/windows resize detection.md",
     "linux/nginx/config - default.md",
     "linux/VPS.md",
     "apps/git.md",
@@ -170,7 +150,6 @@
     "linux/nginx/config - proxy.md",
     "ssh/work.md",
     "2023-01-11.md",
-    "Untitled.canvas",
-    "Test.md"
+    "Untitled.canvas"
   ]
 }
