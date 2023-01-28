@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ac939f962e347f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code snippets/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/nginx/commands.md",
+                "file": "code snippets/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/nginx/commands.md",
+                "file": "code snippets/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/nginx/commands.md"
+                "file": "code snippets/Untitled.md"
               }
             }
           }
@@ -147,13 +160,13 @@
       "templates:Insert template": true
     }
   },
-  "active": "e4c99546c492246e",
+  "active": "9ac939f962e347f3",
   "lastOpenFiles": [
+    "linux/nginx/commands.md",
     "linux/nginx/config - default.md",
     "linux/VPS.md",
     "apps/git.md",
     "reminders/HBR-website/Usufull comands.md",
-    "linux/nginx/commands.md",
     "linux/nginx/config - proxy.md",
     "ssh/work.md",
     "2023-01-11.md",
