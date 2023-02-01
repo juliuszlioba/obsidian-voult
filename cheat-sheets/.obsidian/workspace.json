@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b56f6b64dfe38461",
+        "id": "fda2eb3401c19cc7",
         "type": "tabs",
         "children": [
           {
-            "id": "57a141d4c9609afa",
+            "id": "5c99b3c48d1d5e4e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,15 +139,15 @@
       "templates:Insert template": true
     }
   },
-  "active": "57a141d4c9609afa",
+  "active": "5c99b3c48d1d5e4e",
   "lastOpenFiles": [
     "linux/nginx/commands.md",
-    "code snippets/windows resize detection.md",
+    "linux/nginx/config - proxy.md",
     "linux/nginx/config - default.md",
+    "code snippets/windows resize detection.md",
     "linux/VPS.md",
     "apps/git.md",
     "reminders/HBR-website/Usufull comands.md",
-    "linux/nginx/config - proxy.md",
     "ssh/work.md",
     "2023-01-11.md",
     "Untitled.canvas"
