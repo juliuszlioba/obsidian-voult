@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "040d41f94f70f76c",
+        "id": "ccb6ef7090515397",
         "type": "tabs",
         "children": [
           {
-            "id": "5155feb56bea7bf6",
+            "id": "4feba020a3687618",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "reminders/HBR-website/Usufull comands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "reminders/HBR-website/Usufull comands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "reminders/HBR-website/Usufull comands.md"
+              }
             }
           }
         ],
@@ -139,7 +144,7 @@
       "templates:Insert template": true
     }
   },
-  "active": "5155feb56bea7bf6",
+  "active": "26ed3c30baec1f87",
   "lastOpenFiles": [
     "linux/nginx/commands.md",
     "linux/nginx/proxy_pass  wordpress.md",
