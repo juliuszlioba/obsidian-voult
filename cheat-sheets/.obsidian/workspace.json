@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb6ef7090515397",
+        "id": "b00a0dd6305571da",
         "type": "tabs",
         "children": [
           {
-            "id": "4feba020a3687618",
+            "id": "da6fdc781420e7a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "linux/nginx/proxy_pass  wordpress.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md",
+                "file": "linux/nginx/proxy_pass  wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md",
+                "file": "linux/nginx/proxy_pass  wordpress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md"
+                "file": "linux/nginx/proxy_pass  wordpress.md"
               }
             }
           }
@@ -144,17 +147,17 @@
       "templates:Insert template": true
     }
   },
-  "active": "26ed3c30baec1f87",
+  "active": "da6fdc781420e7a0",
   "lastOpenFiles": [
-    "linux/nginx/commands.md",
+    "linux/nginx/config - proxy.md",
     "linux/nginx/proxy_pass  wordpress.md",
-    "wordpress/config.md",
-    "linux/nginx/config - default.md",
+    "ssh/work.md",
     "reminders/HBR-website/Usufull comands.md",
     "linux/VPS.md",
-    "linux/nginx/config - proxy.md",
-    "code snippets/windows resize detection.md",
-    "apps/git.md",
-    "ssh/work.md"
+    "linux/nginx/Untitled.md",
+    "linux/nginx/commands.md",
+    "linux/docker/commands.md",
+    "linux/nginx/config - default.md",
+    "code snippets/windows resize detection.md"
   ]
 }
