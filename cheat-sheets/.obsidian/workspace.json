@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b943acc9386eb984",
+        "id": "fe10c55a6f33a5ff",
         "type": "tabs",
         "children": [
           {
-            "id": "06f2e33034fd1140",
+            "id": "b9ba978782af7e20",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,13 +139,13 @@
       "templates:Insert template": true
     }
   },
-  "active": "578c0c6ad5aa388c",
+  "active": "b9ba978782af7e20",
   "lastOpenFiles": [
-    "linux/nginx/proxy_pass  wordpress.md",
+    "linux/docker/commands.md",
     "linux/docker/backup.md",
+    "linux/nginx/proxy_pass  wordpress.md",
     "linux/nginx/commands.md",
     "windows/kill running port.md",
-    "linux/docker/commands.md",
     "apps/git.md",
     "code snippets/windows resize detection.md",
     "linux/nginx/config - proxy.md",
