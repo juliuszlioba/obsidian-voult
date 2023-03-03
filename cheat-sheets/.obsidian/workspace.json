@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd2860f072b9d36",
+        "id": "309c3b5ed52db4db",
         "type": "tabs",
         "children": [
           {
-            "id": "ca00c8bfa14432bc",
+            "id": "684026950125b7d8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,17 +139,17 @@
       "templates:Insert template": true
     }
   },
-  "active": "ca00c8bfa14432bc",
+  "active": "684026950125b7d8",
   "lastOpenFiles": [
+    "linux/server/htaccess.md",
+    "reminders/HBR-website/Usufull comands.md",
     "Untitled.canvas",
     "2023-03-03.md",
-    "linux/server/htaccess.md",
     "linux/docker/backup.md",
     "linux/docker/commands.md",
     "linux/nginx/proxy_pass  wordpress.md",
     "linux/nginx/commands.md",
     "windows/kill running port.md",
-    "apps/git.md",
-    "code snippets/windows resize detection.md"
+    "apps/git.md"
   ]
 }
