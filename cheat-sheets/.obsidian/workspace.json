@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "309c3b5ed52db4db",
+        "id": "df45b9ab0a5cc276",
         "type": "tabs",
         "children": [
           {
-            "id": "684026950125b7d8",
+            "id": "832baf69590ef65c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "templates:Insert template": true
     }
   },
-  "active": "684026950125b7d8",
+  "active": "578c0c6ad5aa388c",
   "lastOpenFiles": [
     "linux/server/htaccess.md",
     "reminders/HBR-website/Usufull comands.md",
