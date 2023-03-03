@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b5563b96dad30b",
+        "id": "0cd2860f072b9d36",
         "type": "tabs",
         "children": [
           {
-            "id": "aff0f6749ec0f66f",
+            "id": "ca00c8bfa14432bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -47,7 +47,7 @@
                 "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -61,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 217,
-    "collapsed": true
+    "width": 217
   },
   "right": {
     "id": "f0797898dcaefe2e",
@@ -136,13 +134,15 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
       "templates:Insert template": true
     }
   },
-  "active": "26ed3c30baec1f87",
+  "active": "ca00c8bfa14432bc",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2023-03-03.md",
     "linux/server/htaccess.md",
     "linux/docker/backup.md",
     "linux/docker/commands.md",
@@ -150,8 +150,6 @@
     "linux/nginx/commands.md",
     "windows/kill running port.md",
     "apps/git.md",
-    "code snippets/windows resize detection.md",
-    "linux/nginx/config - proxy.md",
-    "ssh/work.md"
+    "code snippets/windows resize detection.md"
   ]
 }
