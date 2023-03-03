@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10c8506d582ae292",
+        "id": "e1b5563b96dad30b",
         "type": "tabs",
         "children": [
           {
-            "id": "ece11328712f1ea1",
+            "id": "aff0f6749ec0f66f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,11 +61,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 217
+    "width": 217,
+    "collapsed": true
   },
   "right": {
     "id": "f0797898dcaefe2e",
@@ -139,8 +141,9 @@
       "templates:Insert template": true
     }
   },
-  "active": "ece11328712f1ea1",
+  "active": "26ed3c30baec1f87",
   "lastOpenFiles": [
+    "linux/server/htaccess.md",
     "linux/docker/backup.md",
     "linux/docker/commands.md",
     "linux/nginx/proxy_pass  wordpress.md",
@@ -149,7 +152,6 @@
     "apps/git.md",
     "code snippets/windows resize detection.md",
     "linux/nginx/config - proxy.md",
-    "ssh/work.md",
-    "reminders/HBR-website/Usufull comands.md"
+    "ssh/work.md"
   ]
 }
