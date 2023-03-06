@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "df45b9ab0a5cc276",
+        "id": "37c92535e88f45f4",
         "type": "tabs",
         "children": [
           {
-            "id": "832baf69590ef65c",
+            "id": "45e1891e42807150",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "b381d060e0a7800b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,8 +139,11 @@
       "templates:Insert template": true
     }
   },
-  "active": "b381d060e0a7800b",
+  "active": "45e1891e42807150",
   "lastOpenFiles": [
+    "apps/excel.md",
+    "apps/git.md",
+    "apps/Untitled",
     "linux/server/htaccess.md",
     "reminders/HBR-website/Usufull comands.md",
     "Untitled.canvas",
@@ -160,7 +152,6 @@
     "linux/docker/commands.md",
     "linux/nginx/proxy_pass  wordpress.md",
     "linux/nginx/commands.md",
-    "windows/kill running port.md",
-    "apps/git.md"
+    "windows/kill running port.md"
   ]
 }
