@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "b381d060e0a7800b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +150,7 @@
       "templates:Insert template": true
     }
   },
-  "active": "578c0c6ad5aa388c",
+  "active": "b381d060e0a7800b",
   "lastOpenFiles": [
     "linux/server/htaccess.md",
     "reminders/HBR-website/Usufull comands.md",
