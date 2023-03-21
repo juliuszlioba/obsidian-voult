@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c996847c81974b47",
+        "id": "9100b1f66f6f542e",
         "type": "tabs",
         "children": [
           {
-            "id": "764b12d98a41b9cd",
+            "id": "b43d4db6c8bcbd90",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,10 @@
       "templates:Insert template": true
     }
   },
-  "active": "764b12d98a41b9cd",
+  "active": "b43d4db6c8bcbd90",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "windows/kill running port.md",
     "apps/excel.md",
     "apps/git.md",
     "apps/Untitled",
@@ -151,7 +153,6 @@
     "linux/docker/backup.md",
     "linux/docker/commands.md",
     "linux/nginx/proxy_pass  wordpress.md",
-    "linux/nginx/commands.md",
-    "windows/kill running port.md"
+    "linux/nginx/commands.md"
   ]
 }
