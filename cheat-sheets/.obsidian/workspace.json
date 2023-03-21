@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37c92535e88f45f4",
+        "id": "c996847c81974b47",
         "type": "tabs",
         "children": [
           {
-            "id": "45e1891e42807150",
+            "id": "764b12d98a41b9cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "templates:Insert template": true
     }
   },
-  "active": "45e1891e42807150",
+  "active": "764b12d98a41b9cd",
   "lastOpenFiles": [
     "apps/excel.md",
     "apps/git.md",
