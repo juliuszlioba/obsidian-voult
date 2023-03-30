@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fdfb6de0c9fac800",
+        "id": "8adfd0099a0f4240",
         "type": "tabs",
         "children": [
           {
-            "id": "322e9cd31c40e37e",
+            "id": "f54d0a37c9275c9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/docker/commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b4b76a33f956340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/docker/wordpress image.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/docker/wordpress image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/docker/wordpress image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linux/docker/wordpress image.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,7 +139,7 @@
       "templates:Insert template": true
     }
   },
-  "active": "1b4b76a33f956340",
+  "active": "f54d0a37c9275c9e",
   "lastOpenFiles": [
     "linux/docker/commands.md",
     "linux/docker/wordpress image.md",
