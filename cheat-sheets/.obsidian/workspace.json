@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md",
+                "file": "linux/docker/commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b4b76a33f956340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/docker/wordpress image.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md",
+                "file": "linux/docker/wordpress image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md",
+                "file": "linux/docker/wordpress image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reminders/HBR-website/Usufull comands.md"
+                "file": "linux/docker/wordpress image.md"
               }
             }
           }
@@ -147,8 +160,14 @@
       "templates:Insert template": true
     }
   },
-  "active": "322e9cd31c40e37e",
+  "active": "1b4b76a33f956340",
   "lastOpenFiles": [
+    "linux/docker/commands.md",
+    "linux/docker/wordpress image.md",
+    "linux/nginx/proxy_pass  wordpress.md",
+    "linux/server/htaccess.md",
+    "linux/docker/backup.md",
+    "reminders/HBR-website/Usufull comands.md",
     "code snippets/react/windows resize detection.md",
     "code snippets/react/useHover.md",
     "code snippets/react",
@@ -157,13 +176,8 @@
     "apps/excel.md",
     "apps/git.md",
     "apps/Untitled",
-    "linux/server/htaccess.md",
-    "reminders/HBR-website/Usufull comands.md",
     "Untitled.canvas",
     "2023-03-03.md",
-    "linux/docker/backup.md",
-    "linux/docker/commands.md",
-    "linux/nginx/proxy_pass  wordpress.md",
     "linux/nginx/commands.md"
   ]
 }
