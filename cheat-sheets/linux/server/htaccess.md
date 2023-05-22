@@ -1,8 +1,7 @@
 #### Static folder with SGS  + Wordpress
 
+Based on: https://stackoverflow.com/questions/39666414/redirect-subfolder-to-root-and-hide-it-in-the-url
 ```
-# FROM: https://stackoverflow.com/questions/39666414/redirect-subfolder-to-root-and-hide-it-in-the-url
-
 <IfModule mod_rewrite.c>
 
 RewriteEngine On
@@ -42,8 +41,13 @@ RewriteRule . /index.php [L]
 ##### www to non-www
 
 ```
+<IfModule mod_rewrite.c>
+
 RewriteEngine On
+
 RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+</IfModule>
 ```
