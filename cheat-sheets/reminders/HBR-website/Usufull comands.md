@@ -21,5 +21,5 @@ Produktgroup:
 ## Redirect
 
 ```razor
-Response.Redirect("~/milch");
+@{ Response.Redirect("~/kindergarten"); }
 ```
