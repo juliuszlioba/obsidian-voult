@@ -9,3 +9,9 @@ clean up (complete)
 ```bash
 docker system prune --volumes
 ```
+
+follow container logs
+
+```bash
+docker logs <container_id> -f
+```
