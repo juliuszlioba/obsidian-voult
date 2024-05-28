@@ -15,9 +15,8 @@ To [configure Prettier](https://prettier.io/docs/en/options.html), create a `.
    "singleQuote": true,
    "trailingComma": "none",
    "semi": false,
-   "printWidth": 100,
-   "plugins": ["prettier-plugin-astro", "prettier-plugin-tailwindcss"],
-   "pluginSearchDirs": false
+   "printWidth": 160,
+   "plugins": ["prettier-plugin-astro", "prettier-plugin-tailwindcss"]
 }
 ```
 

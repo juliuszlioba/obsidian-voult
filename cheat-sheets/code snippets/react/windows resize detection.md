@@ -1,4 +1,4 @@
-```javascript
+```ts
 
 import { useCallback, useEffect, useState } from 'react'
 import { throttle } from 'radash'

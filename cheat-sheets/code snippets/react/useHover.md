@@ -1,4 +1,4 @@
-```js
+```ts
 // Usage
 function App() {
   const [hoverRef, isHovered] = useHover<HTMLDivElement>();

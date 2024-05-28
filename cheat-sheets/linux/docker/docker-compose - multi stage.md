@@ -3,8 +3,6 @@
 `docker-compose.yml`
 
 ```d
-version: '3'
-
 services:
   astro-build:
     container_name: example
