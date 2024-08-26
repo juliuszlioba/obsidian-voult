@@ -15,8 +15,6 @@ services:
       MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
     volumes:
       - 'mysql:/var/lib/mysql'
-    networks:
-      - mysql-db
 
   adminer:
     image: michalhosna/adminer
@@ -31,8 +29,6 @@ services:
     restart: always
     ports:
       - 8080:8080
-    networks:
-      - mysql-db
   # mailpit:
   #   image: 'axllent/mailpit:latest'
   #   ports:
@@ -42,8 +38,4 @@ services:
 volumes:
   mysql:
     driver: local
-
-networks:
-  mysql-db:
-    driver: bridge
 ```
