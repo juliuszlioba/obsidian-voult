@@ -4,16 +4,15 @@ Simple Mysql and Arminer setup::
 ```yml
 services:
   mysql-db:
-    image: 'mysql/mysql-server:8.0'
+    image: 'mariadb:10.8.3'
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
     ports:
       - 3306:3306
     environment:
-      MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
-      MYSQL_ROOT_HOST: '%'
       MYSQL_DATABASE: '${DB_DATABASE}'
       MYSQL_USER: '${DB_USERNAME}'
-      MYSQL_PASSWORD: '${DB_PASSWORD}'
-      MYSQL_ALLOW_EMPTY_PASSWORD: 1
+      MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
     volumes:
       - 'mysql:/var/lib/mysql'
     networks:
